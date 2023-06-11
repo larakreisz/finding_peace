@@ -49,7 +49,7 @@ We may use any aggregated data derived from or incorporating your Personal Infor
 
 #### Links to other resources
 
-The Mobile Application and Services doesn't contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave the Mobile Application and Services and to read the privacy statements of each and every resource that may collect Personal Information.
+The Mobile Application and Services does contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave the Mobile Application and Services and to read the privacy statements of each and every resource that may collect Personal Information.
 
 
 #### Information security

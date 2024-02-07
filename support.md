@@ -1,4 +1,4 @@
-Fashion Lookbook | Support
+Learn Salah Prayer | Support
 ----------------
 
 ### Contact Us  
